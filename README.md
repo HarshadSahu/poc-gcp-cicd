@@ -1,10 +1,5 @@
-1. `npx create-react-app client`
+## Setup a Create-React-App CI/CD Pipeline on Every Github Commit via Google Cloud Build and Google Cloud Run
 
-Setup Google Cloud Console Stuff
-2. Make a project on google cloud console
-3. Enable the `Cloud Build API`
-4. Enable `Cloud Run API`
+Original Guide is at:
 
-Setup Repo
-4. Cloud Build -> Triggers -> Connect Repository from Github
-5. Settings -> Cloud Run -> ENABLE
+https://thoughtstile.medium.com/setup-a-create-react-app-ci-cd-pipeline-on-every-github-commit-via-google-cloud-build-and-google-7ff6cb96cb1d
