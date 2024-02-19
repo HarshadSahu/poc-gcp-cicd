@@ -8,7 +8,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>This website has CI/CD on every commit!</p>
         <h2>This is Harshad!</h2>
-        <p>How are you?</p>
+        <p>Hello, Nallasivam</p>
       </header>
     </div>
   );
